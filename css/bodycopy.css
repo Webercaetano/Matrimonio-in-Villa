@@ -1,9 +1,8 @@
 .bodycopy {
     color: rgb(49, 49, 49);
-    font-size: 18px;
-    font-family: poppins;
-    font-weight: 300;
-    line-height: 27px;
-    margin-top: 18px;
-    margin-bottom: 18px;
+    font-family: Mulish;
+    text-align: center;
+    line-height: 180%;
+    font-size: 16px;
+    font-weight: 600;
 }
