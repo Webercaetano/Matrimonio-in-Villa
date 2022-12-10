@@ -789,24 +789,31 @@ width: 60%;
     }
 
    .subheadline {
-    width: 70%;
+    width: 90%;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 8px;
+    margin-bottom: 48px;
    }
 
    .bloco_contatos {
     width: 90%;
+    padding-left: 0px;
+    
+    
    }
 
    .contatos {
-    margin-left: 24px;
-    width: 100%;
+    justify-content: center;
+    width: 70%;
    }
 
    .text_mulishi {
     width: 70%;
     text-align: left;
+   }
+
+   .h2 {
+    width: 80%;
    }
 
    .count-wrapper div {
@@ -823,4 +830,53 @@ width: 60%;
     height: 60px;
    }
 
+   .right_block {
+    display: block;
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+   .posto {
+    width: 100%;
+    height: auto;
+    padding: 48px 0 48px 0;
+    border-width: 1px 1px 1px 1px;
+   }
+
+   .block_villa {
+    height: 220px;
+    width: 100%;
+   }
+
+   .section_place {
+    width: 100%;
+    padding: 48px 0 48px 0 ;
+   }
+
+   .maps {
+    width: 100%;
+    height: 220px;
+   }
+
+   .comochegar {
+    width: 100%;
+    height: auto;
+    padding: 48px 24px 48px 24px ;
+    border-width: 1px 1px 1px 1px;
+   }
+
+   .hoteis {
+    display: block;
+   }
+
+   .recomend_01 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
+   }
+   
 }
